@@ -44,7 +44,7 @@ export default ({ exercises }) => (
     </Grid>
     <Grid item sm>
       <Paper style={styles.Paper}>
-        <Typography variant="h4">Welcome:</Typography>
+        <Typography variant="h4">Welcomez:</Typography>
         <Typography variant="body1" style={{ marginTop: 20 }}>
           Please select an exercise from the list on the left.
         </Typography>
